@@ -1,5 +1,5 @@
 # PhinetunEd
-Originally implemented by Mortadha Abderrahim and Daniel Tozodore
+Originally implemented by Mortadha Abderrahim and Daniel Tozodore   
 Adapters available at: https://huggingface.co/Mortadha/Phi-Ed-25072024
 
 ## Fine-tuning & Evaluation
